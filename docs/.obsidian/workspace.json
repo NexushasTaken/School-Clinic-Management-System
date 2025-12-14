@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "7303e85e9fff4a9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4214923d9a2688a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a15083e8d48142",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Current System - Mermaid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Current System - Mermaid"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6424263f1f461461",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9bf6bb899b1f256",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e345e752ce22d06e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4f711fa1fce96026",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "119df8f7b8488e8b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "02d24afda2befc58",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a4d01dcaee03093",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b60e55fd4c987144",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Current System - Mermaid.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Current System - Mermaid"
+            }
+          },
+          {
+            "id": "ceaec3123898bf11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Current System - Mermaid.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Current System - Mermaid"
+            }
+          },
+          {
+            "id": "5a4cb12eb8f966a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c1f9a53ee77f353e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "933e98acc2ded34b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Current System - Mermaid.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Current System - Mermaid"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "e7a15083e8d48142",
+  "lastOpenFiles": [
+    "Documents/SYSARCH1 Documentation Format 2024.pdf",
+    "Documents/SYSARC 1.docx",
+    "Documents/Documentation Cover Format - SYSARCH1 2024.pdf",
+    "Documents/25-Isip.docx",
+    "Documents",
+    "New folder",
+    "TODO.md",
+    "Excalidraw/Current System.md",
+    "Excalidraw/Current System - Mermaid.md",
+    "Excalidraw/Current System - Mermaid.txt",
+    "Untitled.canvas",
+    "Excalidraw"
+  ]
+}
