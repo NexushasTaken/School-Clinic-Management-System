@@ -45,6 +45,6 @@
 
 - [x] **13. Group profile**  
   - [x] a) group picture  
-  - [ ] b) course testimonials  
-  - [ ] c) individual curriculum vitae  
-  - [ ] d) pictures during feasibility study and company visits
+  - [x] b) course testimonials  
+  - [x] c) individual curriculum vitae  
+  - [x] d) pictures during feasibility study and company visits
