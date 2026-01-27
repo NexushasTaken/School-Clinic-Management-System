@@ -14,10 +14,10 @@ zx# Global Reciprocal Colleges
 
 - [ ] **4. Introduction** – describes the course objectives, technological trends, and the reasons behind choosing the target system as study material
 
-- [x] **5. Scope and Objectives** – serves as the capsulated project information  
-  - [x] a) Project name and description  
-  - [x] b) Project objective and deliverables  
-  - [x] c) Project scope – features and functions of the target system and the different activities needed to finish the project  
+- [x] **5. Scope and Objectives** – serves as the capsulated project information
+  - [x] a) Project name and description
+  - [x] b) Project objective and deliverables
+  - [x] c) Project scope – features and functions of the target system and the different activities needed to finish the project
   - [x] d) Projects constraints – limitations and conditions based on time, cost and change management
 
 - [x] **6. Company Profile** – basic information, business functions, organizational structure and business philosophy
@@ -26,25 +26,25 @@ zx# Global Reciprocal Colleges
 
 - [x] **8. Statement of the Problem** – describes the problems encountered in the existing system that will be addressed by the proposed system
 
-- [x] **9. Proposed system**  
-  - [x] a) Characteristics and processes  
-  - [x] b) Functional decomposition diagram  
-  - [x] c) System flowchart  
+- [x] **9. Proposed system**
+  - [x] a) Characteristics and processes
+  - [x] b) Functional decomposition diagram
+  - [x] c) System flowchart
   - [x] d) Data flow diagram (DFD-0, DFD-detailed)
 
 - [ ] **10. Prototypes** – screen layouts of the target system
 
-- [x] **11. Cost & Benefit Analysis**  
-  - [x] a) Development cost  
+- [x] **11. Cost & Benefit Analysis**
+  - [x] a) Development cost
   - [-] b) Comparative benefit justification (cost-based or output-based)
 
-- [ ] **12. Appendix**
-  - [ ] a) Definition of terms  
-  - [ ] b) Database Structure  
-  - [ ] c) Exhibits - forms and deliverables (comparative - existing vs proposed if possible)
+- [x] **12. Appendix**
+  - [x] a) Definition of terms
+  - [x] b) Database Structure
+  - [-] c) Exhibits - forms and deliverables (comparative - existing vs proposed if possible)
 
-- [x] **13. Group profile**  
-  - [x] a) group picture  
-  - [x] b) course testimonials  
-  - [x] c) individual curriculum vitae  
+- [x] **13. Group profile**
+  - [x] a) group picture
+  - [x] b) course testimonials
+  - [x] c) individual curriculum vitae
   - [x] d) pictures during feasibility study and company visits
