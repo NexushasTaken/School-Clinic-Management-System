@@ -1,4 +1,4 @@
-# Global Reciprocal Colleges
+zx# Global Reciprocal Colleges
 
 ## College of Computer Studies
 
@@ -26,17 +26,17 @@
 
 - [x] **8. Statement of the Problem** – describes the problems encountered in the existing system that will be addressed by the proposed system
 
-- [ ] **9. Proposed system**  
-  - [ ] a) Characteristics and processes  
-  - [ ] b) Functional decomposition diagram  
-  - [ ] c) System flowchart  
-  - [ ] d) Data flow diagram (DFD-0, DFD-detailed)
+- [x] **9. Proposed system**  
+  - [x] a) Characteristics and processes  
+  - [x] b) Functional decomposition diagram  
+  - [x] c) System flowchart  
+  - [x] d) Data flow diagram (DFD-0, DFD-detailed)
 
 - [ ] **10. Prototypes** – screen layouts of the target system
 
-- [ ] **11. Cost & Benefit Analysis**  
-  - [ ] a) Development cost  
-  - [ ] b) Comparative benefit justification (cost-based or output-based)
+- [x] **11. Cost & Benefit Analysis**  
+  - [x] a) Development cost  
+  - [-] b) Comparative benefit justification (cost-based or output-based)
 
 - [ ] **12. Appendix**
   - [ ] a) Definition of terms  
